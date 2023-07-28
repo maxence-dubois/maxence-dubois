@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 2022 [Diplôme Bachelor Responsable en Ingénierie Systèmes et Réseaux - CESI Alternance (BAC+3)](https://www.cesi.fr/formation/bachelor-administrateur-trice-systemes-et-reseaux-en-alternance)
 
-2022 [Certification Microsoft Azure Fundamentals (AZ-900)](https://www.credly.com/badges/6b07c34d-6f3f-4e29-8b03-cd820b92be34/linked_in_profile) 
+2022 [Certification Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/fr-fr/users/maxencedubois/credentials/23f5408a80712617) 
 
 2022 [Certification Cisco Cybersecurity Essentials](https://www.credly.com/badges/0fd5b0fa-1298-4db1-9ef4-1d21a5955b77/linked_in_profile)  
 
