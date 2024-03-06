@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 2016 [ITIL Foundation Certification - ALTRAN](https://app.exeed.pro/holder/badge/129241)  
 
-2014 - PEARSON Apple iOS 9L0-E06 (iOS Support) Certification - AGNOSYS
+2014 PEARSON Apple iOS 9L0-E06 (iOS Support) Certification - AGNOSYS
 
 2013 [Higher National Diploma IT Maintenance and Support Manager - CESI Entreprises](https://www.cesi.fr/formation/gestionnaire-en-maintenance-et-support-informatique-en-alternance)
 
